@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="28" alt="Email Contact"/>
   </a>
   &nbsp;
-  <a href="https://yu-sync.com" target="_blank">
+  <a href="https://demir-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/My Website-8A2BE2?style=flat&logo=about.me&logoColor=white" height="28" alt="Portfolio Website"/>
   </a>
 
