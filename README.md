@@ -29,9 +29,20 @@
 
   <h3>Technologies Used in Projects</h3>
   
-  | **Core Systems** | **Web & Tools** |
-  | :---: | :---: |
-  | <img src="https://skillicons.dev/icons?i=java,cs,cpp,mysql" height="50" alt="Core Systems Icons" /> | <img src="https://skillicons.dev/icons?i=react,ts,python,tailwind,supabase" height="50" alt="Web Tools Icons" /> |
+  <table align="center">
+    <tr>
+      <td align="center" width="50%"><b>Core Systems</b></td>
+      <td align="center" width="50%"><b>Web & Tools</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=java,cs,cpp,mysql" height="50" alt="Core Systems Icons" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,ts,python,tailwind,supabase" height="50" alt="Web Tools Icons" />
+      </td>
+    </tr>
+  </table>
   
   <br>
   
