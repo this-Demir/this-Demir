@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1 style="font-size: 30px; margin-bottom: 0;">Hi, I'm Demir! 👋</h1>
+  <h1 style="font-size: 30px; margin-bottom: 0;">Hi, I'm Demir! </h1>
   <h3 style="font-weight: 600; margin-top: 5px; margin-bottom: 0;">Software Engineering Student at Yaşar University </h3>
   
   <br>
@@ -28,24 +28,10 @@
   <br>
 
   <h3>Technologies Used in Projects</h3>
-  
-  <table align="center">
-    <tr>
-      <td align="center" width="50%"><b>Core Systems</b></td>
-      <td align="center" width="50%"><b>Web & Tools</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=java,cs,cpp,mysql" height="50" alt="Core Systems Icons" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,ts,python,tailwind,supabase" height="50" alt="Web Tools Icons" />
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <img src="https://skillicons.dev/icons?i=git,postman,selenium,gradle,vite" height="40" alt="DevOps Tools Icons" />
+  <img src="https://skillicons.dev/icons?i=java,cs,cpp,mysql,react,ts,python,tailwind,supabase,git,postman,selenium,gradle,vite" height="80" alt="DevOps Tools Icons" />
+
+  <h6>
+  I am not an expert in all of these stacks; this list simply represents the technologies I've experimented with in my projects.
+</h6>
 
 </div>
