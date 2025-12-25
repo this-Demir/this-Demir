@@ -28,7 +28,7 @@
   <br>
 
   <h3>Technologies Used in Projects</h3>
-  <img src="https://skillicons.dev/icons?i=java,cs,cpp,mysql,react,ts,python,tailwind,supabase,git,postman,selenium,gradle,vite" height="80" alt="DevOps Tools Icons" />
+  <img src="https://skillicons.dev/icons?i=java,cs,python,mysql,ts,js,react,vite,tailwind,git,github,postman,selenium" height="80" alt="DevOps Tools Icons" />
 
   <h6>
   I am not an expert in all of these stacks; this list simply represents the technologies I've experimented with in my projects.
