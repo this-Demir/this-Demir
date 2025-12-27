@@ -34,4 +34,18 @@
   I am not an expert in all of these stacks; this list simply represents the technologies I've experimented with in my projects.
 </h6>
 
+<br>
+  
+  <h3>My GitHub Statistics</h3>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=this-Demir&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" alt="Demir's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=this-Demir&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Demir's Top Languages" />
+  </div>
+
+  <br>
+
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=this-Demir&theme=tokyonight&hide_border=true" alt="Demir's GitHub Streak" />
+  </div>
+
 </div>
