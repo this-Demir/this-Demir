@@ -36,16 +36,19 @@
 
 <br>
   
-  <h3>My GitHub Statistics</h3>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=this-Demir&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" alt="Demir's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=this-Demir&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Demir's Top Languages" />
-  </div>
-
-  <br>
-
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=this-Demir&theme=tokyonight&hide_border=true" alt="Demir's GitHub Streak" />
-  </div>
+<h3>GitHub Activity & Stats</h3>
+  
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=this-Demir&theme=tokyonight" width="400" alt="Profile Details" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding-top: 10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=this-Demir&theme=tokyonight&hide_border=true" width="400" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 
 </div>
