@@ -8,13 +8,8 @@
   <a href="https://yu-sync.com" target="_blank">
     <img src="https://img.shields.io/badge/Yu--Sync-3291FF?style=flat&logo=google-chrome&logoColor=white" height="28" alt="Yu-Sync Live App"/>
   </a>
-  &nbsp;
-  <a href="mailto:demirdemirdogen@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="28" alt="Email Contact"/>
-  </a>
-  &nbsp;
   <a href="https://demir-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/My Website-8A2BE2?style=flat&logo=about.me&logoColor=white" height="28" alt="Portfolio Website"/>
+    <img src="https://img.shields.io/badge/demirdogen.dev-8A2BE2?style=flat&logo=about.me&logoColor=white" height="28" alt="Portfolio Website"/>
   </a>
 
   <br><br>
@@ -42,11 +37,6 @@
     <tr>
       <td align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=this-Demir&theme=tokyonight" width="400" alt="Profile Details" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding-top: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=this-Demir&theme=tokyonight&hide_border=true" width="400" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
