@@ -12,16 +12,6 @@
     <img src="https://img.shields.io/badge/demirdogen.dev-8A2BE2?style=flat&logo=about.me&logoColor=white" height="28" alt="Portfolio Website"/>
   </a>
 
-  <br><br>
-
-  <p>
-    Driven by a curiosity to <b>define my technical path</b>, I actively explore contrasting domains. <br>
-    Whether optimizing low-level <b>Vulkan</b> pipelines or architecting scalable <b>.NET</b> solutions, <br>
-    I challenge myself across the stack to find where <b>performance meets innovation.</b>
-  </p>
-  
-  <br>
-
   <h3>Technologies Used in Projects</h3>
   <img src="https://skillicons.dev/icons?i=java,cs,python,mysql,ts,js,react,vite,tailwind,git,github,postman,selenium" height="80" alt="DevOps Tools Icons" />
 
