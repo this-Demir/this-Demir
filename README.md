@@ -19,16 +19,4 @@
   I am not an expert in all of these stacks; this list simply represents the technologies I've experimented with in my projects.
 </h6>
 
-<br>
-  
-<h3>GitHub Activity & Stats</h3>
-  
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=this-Demir&theme=tokyonight" width="400" alt="Profile Details" />
-      </td>
-    </tr>
-  </table>
-
 </div>
