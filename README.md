@@ -12,11 +12,17 @@
     <img src="https://img.shields.io/badge/demirdogen.dev-8A2BE2?style=flat&logo=about.me&logoColor=white" height="28" alt="Portfolio Website"/>
   </a>
 
+
   <h3>Technologies Used in Projects</h3>
   <img src="https://skillicons.dev/icons?i=java,cs,python,mysql,ts,js,react,vite,tailwind,git,github,postman,selenium" height="80" alt="DevOps Tools Icons" />
 
   <h6>
   I am not an expert in all of these stacks; this list simply represents the technologies I've experimented with in my projects.
-</h6>
+  </h6>
+
+  <img
+    src="https://komarev.com/ghpvc/?username=this-Demir&color=blue"
+    alt="Profile Views"
+  />
 
 </div>
